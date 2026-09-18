@@ -4,6 +4,7 @@ export default defineConfig({
   title: '枪神纪武器排行榜',
   description: '枪神纪全职业武器强度排行 Wiki · 版本驱动 · 社区共建',
   lang: 'zh-CN',
+  base: '/TPSqsj-wiki/',
   lastUpdated: true,
   cleanUrls: true,
   ignoreDeadLinks: true,
