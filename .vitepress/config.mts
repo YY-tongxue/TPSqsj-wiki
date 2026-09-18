@@ -6,7 +6,7 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/TPSqsj-wiki/',
   lastUpdated: true,
-  cleanUrls: true,
+  cleanUrls: false,
   ignoreDeadLinks: true,
 
   themeConfig: {
